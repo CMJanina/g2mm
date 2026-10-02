@@ -14,6 +14,7 @@ Condensed formatting rules for transcribing lyrics in the three target styles.
 
 ### Rules
 
+- Follow the song's streaming version.
 - Section header on its own line, in brackets.
 - Distinguish vocalists in both headers and lyrics: first plain, second `<i>...</i>`, third `<b>...</b>`, fourth `<i><b>...</b></i>`.
 - Do not add vocalist formatting when a section has more than four artist combinations.
